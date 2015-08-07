@@ -146,8 +146,8 @@ figure.floatcenter, .align-center {
 
 #categories ul, #tags ul {
     list-style: none;
-    padding: 0;
-    margin-left: 0;
+    padding: 5;
+    margin-left: 5;
 }
 
 .docutils.footnote td.label {
@@ -168,7 +168,7 @@ figure.floatcenter, .align-center {
 }
 
 .tagcloud li {
-    padding: 0px;
+    padding: 10px;
 }
 
 #banner {
